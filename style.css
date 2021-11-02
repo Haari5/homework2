@@ -1,0 +1,19 @@
+#box-list {display: flex table-row;
+border: 5%;
+background-color:silver;
+ flex-direction: row column;
+  
+
+}
+
+#text{ 
+
+    text-align:center;
+}
+
+
+#Read{
+    background-color: violet;
+ color: tomato;
+ 
+}
